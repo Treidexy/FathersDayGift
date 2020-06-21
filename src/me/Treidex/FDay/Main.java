@@ -1,7 +1,6 @@
 package me.Treidex.FDay;
 
 import java.awt.Color;
-import java.awt.Font;
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
@@ -10,7 +9,6 @@ import javax.swing.JRootPane;
 import me.Treidex.Game.*;
 import me.Treidex.Game.GameObject.*;
 import me.Treidex.Game.GameObject.Components.*;
-import me.Treidex.Game.GameObject.Components.Colliders.*;
 import me.Treidex.Game.GameObject.Components.UI.*;
 import me.Treidex.Game.GameObject.Components.UI.Events.*;
 import me.Treidex.Game.Math.*;
